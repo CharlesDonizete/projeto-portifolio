@@ -269,6 +269,7 @@ article#video .video-container {
 
   footer a:hover{
     color: var(--destaque-inverso);
+  }
 
    #projeto-container .foto {
     aspect-ratio: 1/1;
